@@ -17,7 +17,7 @@
 
 1. 在wp后台安装好“WP-DBManager”最新版
 
-2. 将“wp-content”文件夹上传至网站根目录（或上传至插件相应目录）
+2. 将文件上传至“/wp-content/plugins/wp-dbmanager”文件夹下
 
 3. 上传成功后，刷新页面查看汉化是否成功
 
